@@ -2,16 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.taotao"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="taotao-manager-web"/>
-			<item value="taotao.manager"/>
-			<item value="taotao-manager-service"/>
-			<item value="taotao-manager-mapper"/>
-			<item value="taotao-manager-pojo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -63,6 +57,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\myproject\generatorSqlmapCustom\generatorConfig.xml"/>
 			<item value="E:\myproject\taotao.manager\pom.xml"/>
 			<item value="E:\myproject\taotao-common"/>
 			<item value="E:\myproject\taotao-parent\pom.xml"/>
@@ -79,13 +74,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.taotao.manager.web"/>
 		</list>
 		<list key="groupId">
-			<item value="com.taotao"/>
 		</list>
 		<list key="artifactId">
-			<item value="taotao-manager-web"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

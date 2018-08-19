@@ -1,5 +1,7 @@
 INDEX VERSION 1.131
 E:\myproject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3792234166.index
 \test\src
+E:\myproject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2721289618.index
+\taotao-manager-web\src\main\java
 E:\myproject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1083750738.index
 \taotao-manager-web\src\main\java
